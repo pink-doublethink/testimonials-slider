@@ -36,15 +36,10 @@ h6 {
 html,
 body {
   height: 100%;
+  background-color: var(--proxy-bodily);
 }
+
 
 body {
   background-color: var(--proxy-bodily);
-  font-family: "Inter", serif;
-  font-size: var(--FS);
-  letter-spacing: -0.001px;
-  word-spacing: -0.04rem;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
